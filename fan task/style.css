@@ -33,17 +33,17 @@ img{
 
 .main-container>.btn1:hover~img{
     transition: all 10s;
-    transform: rotate(550deg);
+    transform: rotate(700deg);
 }
 .main-container>.btn2:hover~img{
     transition: all 6s;
-    transform: rotate(550deg) ;
+    transform: rotate(900deg) ;
 }
 .main-container>.btn3:hover~img{
     transition: all 4s;
-    transform: rotate(550deg);
+    transform: rotate(1100deg);
 }
 .main-container>.btn4:hover~img{
     transition: all 1s;
-    transform: rotate(550deg) ;
+    transform: rotate(1500deg) ;
 }
